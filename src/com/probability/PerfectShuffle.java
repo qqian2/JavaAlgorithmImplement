@@ -21,7 +21,7 @@ public class PerfectShuffle {
         array[j] = temp;
     }
 
-    public static void main(String[] arg){
+    public static void main(String[] args){
         PerfectShuffle test = new PerfectShuffle();
         int[] arr = new int[]{1,3,4,5,6,7,8,12};
         test.shuffle(arr);
