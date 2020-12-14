@@ -1,4 +1,4 @@
-package com.Arrays;
+package com.arrays;
 
 import java.util.TreeSet;
 
